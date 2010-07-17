@@ -1,0 +1,6 @@
+This repo contains all misc php functions created for ease of using complex php datastructures
+
+Functions:
+
+SimpleXML_2_Array()
+This function will convert simpleXMLObject to associative array.

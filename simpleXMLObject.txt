@@ -1,0 +1,2464 @@
+SimpleXMLElement Object
+(
+    [OperationRequest] => SimpleXMLElement Object
+        (
+            [RequestId] => 44329aa3-4070-4654-9c5b-3483ddb82343
+            [Arguments] => SimpleXMLElement Object
+                (
+                    [Argument] => Array
+                        (
+                            [0] => SimpleXMLElement Object
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [Name] => Operation
+                                            [Value] => ItemSearch
+                                        )
+
+                                )
+
+                            [1] => SimpleXMLElement Object
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [Name] => Service
+                                            [Value] => AWSECommerceService
+                                        )
+
+                                )
+
+                            [2] => SimpleXMLElement Object
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [Name] => ItemPage
+                                            [Value] => 1
+                                        )
+
+                                )
+
+                            [3] => SimpleXMLElement Object
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [Name] => Version
+                                            [Value] => 2009-03-31
+                                        )
+
+                                )
+
+                            [4] => SimpleXMLElement Object
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [Name] => Keywords
+                                            [Value] => oil
+                                        )
+
+                                )
+
+                            [5] => SimpleXMLElement Object
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [Name] => SearchIndex
+                                            [Value] => Books
+                                        )
+
+                                )
+
+                            [6] => SimpleXMLElement Object
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [Name] => Signature
+                                            [Value] => yRhURO0J0EU4/qtUZWAvr49gwlb3nlfdkLuCp5C9k8g=
+                                        )
+
+                                )
+
+                            [7] => SimpleXMLElement Object
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [Name] => AWSAccessKeyId
+                                            [Value] => AKIAJ7EJHDPEX4IEY44Q
+                                        )
+
+                                )
+
+                            [8] => SimpleXMLElement Object
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [Name] => Timestamp
+                                            [Value] => 2010-07-17T12:37:46Z
+                                        )
+
+                                )
+
+                            [9] => SimpleXMLElement Object
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [Name] => ResponseGroup
+                                            [Value] => Medium
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [RequestProcessingTime] => 0.2335590000000000
+        )
+
+    [Items] => SimpleXMLElement Object
+        (
+            [Request] => SimpleXMLElement Object
+                (
+                    [IsValid] => True
+                    [ItemSearchRequest] => SimpleXMLElement Object
+                        (
+                            [Condition] => New
+                            [DeliveryMethod] => Ship
+                            [ItemPage] => 1
+                            [Keywords] => oil
+                            [MerchantId] => Amazon
+                            [ResponseGroup] => Medium
+                            [ReviewSort] => -SubmissionDate
+                            [SearchIndex] => Books
+                        )
+
+                )
+
+            [TotalResults] => 77478
+            [TotalPages] => 7748
+            [Item] => Array
+                (
+                    [0] => SimpleXMLElement Object
+                        (
+                            [ASIN] => 1583332049
+                            [DetailPageURL] => http://www.amazon.com/Coconut-Miracle-Previously-published-Healing/dp/1583332049%3FSubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1583332049
+                            [ItemLinks] => SimpleXMLElement Object
+                                (
+                                    [ItemLink] => Array
+                                        (
+                                            [0] => SimpleXMLElement Object
+                                                (
+                                                    [Description] => Technical Details
+                                                    [URL] => http://www.amazon.com/Coconut-Miracle-Previously-published-Healing/dp/tech-data/1583332049%3FSubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D1583332049
+                                                )
+
+                                            [1] => SimpleXMLElement Object
+                                                (
+                                                    [Description] => Add To Baby Registry
+                                                    [URL] => http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3D1583332049%26SubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D1583332049
+                                                )
+
+                                            [2] => SimpleXMLElement Object
+                                                (
+                                                    [Description] => Add To Wedding Registry
+                                                    [URL] => http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3D1583332049%26SubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D1583332049
+                                                )
+
+                                            [3] => SimpleXMLElement Object
+                                                (
+                                                    [Description] => Add To Wishlist
+                                                    [URL] => http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3D1583332049%26SubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D1583332049
+                                                )
+
+                                            [4] => SimpleXMLElement Object
+                                                (
+                                                    [Description] => Tell A Friend
+                                                    [URL] => http://www.amazon.com/gp/pdp/taf/1583332049%3FSubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D1583332049
+                                                )
+
+                                            [5] => SimpleXMLElement Object
+                                                (
+                                                    [Description] => All Customer Reviews
+                                                    [URL] => http://www.amazon.com/review/product/1583332049%3FSubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D1583332049
+                                                )
+
+                                            [6] => SimpleXMLElement Object
+                                                (
+                                                    [Description] => All Offers
+                                                    [URL] => http://www.amazon.com/gp/offer-listing/1583332049%3FSubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D1583332049
+                                                )
+
+                                        )
+
+                                )
+
+                            [SalesRank] => 3160
+                            [SmallImage] => SimpleXMLElement Object
+                                (
+                                    [URL] => http://ecx.images-amazon.com/images/I/51EPnPh4ATL._SL75_.jpg
+                                    [Height] => 75
+                                    [Width] => 49
+                                )
+
+                            [MediumImage] => SimpleXMLElement Object
+                                (
+                                    [URL] => http://ecx.images-amazon.com/images/I/51EPnPh4ATL._SL160_.jpg
+                                    [Height] => 160
+                                    [Width] => 105
+                                )
+
+                            [LargeImage] => SimpleXMLElement Object
+                                (
+                                    [URL] => http://ecx.images-amazon.com/images/I/51EPnPh4ATL.jpg
+                                    [Height] => 500
+                                    [Width] => 328
+                                )
+
+                            [ImageSets] => SimpleXMLElement Object
+                                (
+                                    [ImageSet] => SimpleXMLElement Object
+                                        (
+                                            [@attributes] => Array
+                                                (
+                                                    [Category] => primary
+                                                )
+
+                                            [SwatchImage] => SimpleXMLElement Object
+                                                (
+                                                    [URL] => http://ecx.images-amazon.com/images/I/51EPnPh4ATL._SL30_.jpg
+                                                    [Height] => 30
+                                                    [Width] => 20
+                                                )
+
+                                            [SmallImage] => SimpleXMLElement Object
+                                                (
+                                                    [URL] => http://ecx.images-amazon.com/images/I/51EPnPh4ATL._SL75_.jpg
+                                                    [Height] => 75
+                                                    [Width] => 49
+                                                )
+
+                                            [ThumbnailImage] => SimpleXMLElement Object
+                                                (
+                                                    [URL] => http://ecx.images-amazon.com/images/I/51EPnPh4ATL._SL75_.jpg
+                                                    [Height] => 75
+                                                    [Width] => 49
+                                                )
+
+                                            [TinyImage] => SimpleXMLElement Object
+                                                (
+                                                    [URL] => http://ecx.images-amazon.com/images/I/51EPnPh4ATL._SL110_.jpg
+                                                    [Height] => 110
+                                                    [Width] => 72
+                                                )
+
+                                            [MediumImage] => SimpleXMLElement Object
+                                                (
+                                                    [URL] => http://ecx.images-amazon.com/images/I/51EPnPh4ATL._SL160_.jpg
+                                                    [Height] => 160
+                                                    [Width] => 105
+                                                )
+
+                                            [LargeImage] => SimpleXMLElement Object
+                                                (
+                                                    [URL] => http://ecx.images-amazon.com/images/I/51EPnPh4ATL.jpg
+                                                    [Height] => 500
+                                                    [Width] => 328
+                                                )
+
+                                        )
+
+                                )
+
+                            [ItemAttributes] => SimpleXMLElement Object
+                                (
+                                    [Author] => Array
+                                        (
+                                            [0] => Bruce Fife
+                                            [1] => Jon J. Kabara
+                                        )
+
+                                    [Binding] => Paperback
+                                    [Brand] => Books
+                                    [DeweyDecimalNumber] => 615.3245
+                                    [EAN] => 9781583332047
+                                    [Edition] => 4
+                                    [Feature] => Array
+                                        (
+                                            [0] => ISBN13: 9781583332047
+                                            [1] => Condition: New
+                                            [2] => Notes: BUY WITH CONFIDENCE, Over one million books sold! 98% Positive feedback. Compare our books, prices and service to the competition. 100% Satisfaction Guaranteed
+                                        )
+
+                                    [ISBN] => 1583332049
+                                    [ItemDimensions] => SimpleXMLElement Object
+                                        (
+                                            [Weight] => 76
+                                        )
+
+                                    [Label] => Avery Trade
+                                    [Languages] => SimpleXMLElement Object
+                                        (
+                                            [Language] => Array
+                                                (
+                                                    [0] => SimpleXMLElement Object
+                                                        (
+                                                            [Name] => English
+                                                            [Type] => Unknown
+                                                        )
+
+                                                    [1] => SimpleXMLElement Object
+                                                        (
+                                                            [Name] => English
+                                                            [Type] => Original Language
+                                                        )
+
+                                                    [2] => SimpleXMLElement Object
+                                                        (
+                                                            [Name] => English
+                                                            [Type] => Published
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [ListPrice] => SimpleXMLElement Object
+                                        (
+                                            [Amount] => 1600
+                                            [CurrencyCode] => USD
+                                            [FormattedPrice] => $16.00
+                                        )
+
+                                    [Manufacturer] => Avery Trade
+                                    [MPN] => 9781583332047
+                                    [NumberOfItems] => 1
+                                    [NumberOfPages] => 256
+                                    [PackageDimensions] => SimpleXMLElement Object
+                                        (
+                                            [Height] => 80
+                                            [Length] => 880
+                                            [Weight] => 55
+                                            [Width] => 590
+                                        )
+
+                                    [ProductGroup] => Book
+                                    [ProductTypeName] => ABIS_BOOK
+                                    [PublicationDate] => 2004-09-09
+                                    [Publisher] => Avery Trade
+                                    [ReleaseDate] => 2004-09-09
+                                    [Studio] => Avery Trade
+                                    [Title] => The Coconut Oil Miracle (Previously published as The Healing Miracle of Coconut Oil)
+                                    [UPC] => 735918332041
+                                )
+
+                            [OfferSummary] => SimpleXMLElement Object
+                                (
+                                    [LowestNewPrice] => SimpleXMLElement Object
+                                        (
+                                            [Amount] => 895
+                                            [CurrencyCode] => USD
+                                            [FormattedPrice] => $8.95
+                                        )
+
+                                    [LowestUsedPrice] => SimpleXMLElement Object
+                                        (
+                                            [Amount] => 600
+                                            [CurrencyCode] => USD
+                                            [FormattedPrice] => $6.00
+                                        )
+
+                                    [TotalNew] => 37
+                                    [TotalUsed] => 36
+                                    [TotalCollectible] => 0
+                                    [TotalRefurbished] => 0
+                                )
+
+                            [EditorialReviews] => SimpleXMLElement Object
+                                (
+                                    [EditorialReview] => SimpleXMLElement Object
+                                        (
+                                            [Source] => Product Description
+                                            [Content] => Use nature's elixir to lose weight, prevent heart disease, cancer, and diabetes, and beautify skin and hair.  <br><br>  Can saturated fat be good for you?  <br><br>  Natural coconut oil-not the hydrogenated version often found in processed foods-is a saturated fat, but not the kind your doctor has warned you about. Studies have shown that this uniquely curative oil actually has innumerable health benefits ranging from disease prevention to anti-aging. Now, in his revised edition of the first book to describe the therapeutic properties of coconut oil, Bruce Fife offers a nutrition plan with dozens of tasty recipes that will allow anyone to experience the healing miracles of what he deems the "perfect food."  <br><br>   When taken as a supplement, used in cooking, or applied to directly to the skin, coconut oil has been found to:   <br><br>  - Promote weight loss<br>  - Help protect against heart disease, cancer, diabetes, arthritis, and many other degenerative diseases<br>  - Strengthen the immune system<br>  - Improve digestion<br>  - Prevent premature aging of the skin
+                                            [IsLinkSuppressed] => 0
+                                        )
+
+                                )
+
+                        )
+
+                    [1] => SimpleXMLElement Object
+                        (
+                            [ASIN] => 0446547980
+                            [DetailPageURL] => http://www.amazon.com/Oil-Money-Politics-Power-Century/dp/0446547980%3FSubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0446547980
+                            [ItemLinks] => SimpleXMLElement Object
+                                (
+                                    [ItemLink] => Array
+                                        (
+                                            [0] => SimpleXMLElement Object
+                                                (
+                                                    [Description] => Technical Details
+                                                    [URL] => http://www.amazon.com/Oil-Money-Politics-Power-Century/dp/tech-data/0446547980%3FSubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0446547980
+                                                )
+
+                                            [1] => SimpleXMLElement Object
+                                                (
+                                                    [Description] => Add To Baby Registry
+                                                    [URL] => http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3D0446547980%26SubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0446547980
+                                                )
+
+                                            [2] => SimpleXMLElement Object
+                                                (
+                                                    [Description] => Add To Wedding Registry
+                                                    [URL] => http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3D0446547980%26SubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0446547980
+                                                )
+
+                                            [3] => SimpleXMLElement Object
+                                                (
+                                                    [Description] => Add To Wishlist
+                                                    [URL] => http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3D0446547980%26SubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0446547980
+                                                )
+
+                                            [4] => SimpleXMLElement Object
+                                                (
+                                                    [Description] => Tell A Friend
+                                                    [URL] => http://www.amazon.com/gp/pdp/taf/0446547980%3FSubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0446547980
+                                                )
+
+                                            [5] => SimpleXMLElement Object
+                                                (
+                                                    [Description] => All Customer Reviews
+                                                    [URL] => http://www.amazon.com/review/product/0446547980%3FSubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0446547980
+                                                )
+
+                                            [6] => SimpleXMLElement Object
+                                                (
+                                                    [Description] => All Offers
+                                                    [URL] => http://www.amazon.com/gp/offer-listing/0446547980%3FSubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0446547980
+                                                )
+
+                                        )
+
+                                )
+
+                            [SalesRank] => 6310
+                            [SmallImage] => SimpleXMLElement Object
+                                (
+                                    [URL] => http://ecx.images-amazon.com/images/I/41s0LPl%2BB0L._SL75_.jpg
+                                    [Height] => 75
+                                    [Width] => 51
+                                )
+
+                            [MediumImage] => SimpleXMLElement Object
+                                (
+                                    [URL] => http://ecx.images-amazon.com/images/I/41s0LPl%2BB0L._SL160_.jpg
+                                    [Height] => 160
+                                    [Width] => 108
+                                )
+
+                            [LargeImage] => SimpleXMLElement Object
+                                (
+                                    [URL] => http://ecx.images-amazon.com/images/I/41s0LPl%2BB0L.jpg
+                                    [Height] => 500
+                                    [Width] => 338
+                                )
+
+                            [ImageSets] => SimpleXMLElement Object
+                                (
+                                    [ImageSet] => SimpleXMLElement Object
+                                        (
+                                            [@attributes] => Array
+                                                (
+                                                    [Category] => primary
+                                                )
+
+                                            [SwatchImage] => SimpleXMLElement Object
+                                                (
+                                                    [URL] => http://ecx.images-amazon.com/images/I/41s0LPl%2BB0L._SL30_.jpg
+                                                    [Height] => 30
+                                                    [Width] => 20
+                                                )
+
+                                            [SmallImage] => SimpleXMLElement Object
+                                                (
+                                                    [URL] => http://ecx.images-amazon.com/images/I/41s0LPl%2BB0L._SL75_.jpg
+                                                    [Height] => 75
+                                                    [Width] => 51
+                                                )
+
+                                            [ThumbnailImage] => SimpleXMLElement Object
+                                                (
+                                                    [URL] => http://ecx.images-amazon.com/images/I/41s0LPl%2BB0L._SL75_.jpg
+                                                    [Height] => 75
+                                                    [Width] => 51
+                                                )
+
+                                            [TinyImage] => SimpleXMLElement Object
+                                                (
+                                                    [URL] => http://ecx.images-amazon.com/images/I/41s0LPl%2BB0L._SL110_.jpg
+                                                    [Height] => 110
+                                                    [Width] => 74
+                                                )
+
+                                            [MediumImage] => SimpleXMLElement Object
+                                                (
+                                                    [URL] => http://ecx.images-amazon.com/images/I/41s0LPl%2BB0L._SL160_.jpg
+                                                    [Height] => 160
+                                                    [Width] => 108
+                                                )
+
+                                            [LargeImage] => SimpleXMLElement Object
+                                                (
+                                                    [URL] => http://ecx.images-amazon.com/images/I/41s0LPl%2BB0L.jpg
+                                                    [Height] => 500
+                                                    [Width] => 338
+                                                )
+
+                                        )
+
+                                )
+
+                            [ItemAttributes] => SimpleXMLElement Object
+                                (
+                                    [Author] => Tom Bower
+                                    [Binding] => Hardcover
+                                    [DeweyDecimalNumber] => 338.27282
+                                    [EAN] => 9780446547987
+                                    [Edition] => 1
+                                    [Feature] => Array
+                                        (
+                                            [0] => ISBN13: 9780446547987
+                                            [1] => Condition: New
+                                            [2] => Notes: BUY WITH CONFIDENCE, Over one million books sold! 98% Positive feedback. Compare our books, prices and service to the competition. 100% Satisfaction Guaranteed
+                                        )
+
+                                    [ISBN] => 0446547980
+                                    [Label] => Grand Central Publishing
+                                    [Languages] => SimpleXMLElement Object
+                                        (
+                                            [Language] => Array
+                                                (
+                                                    [0] => SimpleXMLElement Object
+                                                        (
+                                                            [Name] => English
+                                                            [Type] => Unknown
+                                                        )
+
+                                                    [1] => SimpleXMLElement Object
+                                                        (
+                                                            [Name] => English
+                                                            [Type] => Original Language
+                                                        )
+
+                                                    [2] => SimpleXMLElement Object
+                                                        (
+                                                            [Name] => English
+                                                            [Type] => Published
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [ListPrice] => SimpleXMLElement Object
+                                        (
+                                            [Amount] => 2699
+                                            [CurrencyCode] => USD
+                                            [FormattedPrice] => $26.99
+                                        )
+
+                                    [Manufacturer] => Grand Central Publishing
+                                    [NumberOfItems] => 1
+                                    [NumberOfPages] => 512
+                                    [PackageDimensions] => SimpleXMLElement Object
+                                        (
+                                            [Height] => 190
+                                            [Length] => 910
+                                            [Weight] => 170
+                                            [Width] => 590
+                                        )
+
+                                    [ProductGroup] => Book
+                                    [ProductTypeName] => ABIS_BOOK
+                                    [PublicationDate] => 2010-06-03
+                                    [Publisher] => Grand Central Publishing
+                                    [Studio] => Grand Central Publishing
+                                    [Title] => Oil: Money, Politics, and Power in the 21st Century
+                                )
+
+                            [OfferSummary] => SimpleXMLElement Object
+                                (
+                                    [LowestNewPrice] => SimpleXMLElement Object
+                                        (
+                                            [Amount] => 1549
+                                            [CurrencyCode] => USD
+                                            [FormattedPrice] => $15.49
+                                        )
+
+                                    [LowestUsedPrice] => SimpleXMLElement Object
+                                        (
+                                            [Amount] => 1463
+                                            [CurrencyCode] => USD
+                                            [FormattedPrice] => $14.63
+                                        )
+
+                                    [TotalNew] => 30
+                                    [TotalUsed] => 7
+                                    [TotalCollectible] => 0
+                                    [TotalRefurbished] => 0
+                                )
+
+                            [EditorialReviews] => SimpleXMLElement Object
+                                (
+                                    [EditorialReview] => SimpleXMLElement Object
+                                        (
+                                            [Source] => Product Description
+                                            [Content] => With unparalleled insight into BP and its safety record leading up to the disaster in the Gulf of Mexico, Tom Bower gives us a groundbreaking, in-depth, and authoritative twenty-year history of the hunt and speculation for our most vital natural resource.<br><br><i></i><br><b>OIL</b><br><br><i>Money, Politics, and Power in the 21st Century</i><br><br>Twenty years ago oil cost about $7 a barrel. In 2008 the price soared to $148 and then fell to below $40. In the midst of this extraordinary volatility, the major oil conglomerates still spent over a trillion dollars in an increasingly frantic search for more. <br><br>The story of oil is a story of high stakes and extreme risk. It is the story of the crushing rivalries between men and women exploring for oil five miles beneath the sea, battling for control of the world's biggest corporations, and gambling billions of dollars twenty-four hours every day on oil's prices. It is the story of corporate chieftains in Dallas and London, traders in New York, oil-oligarchs in Moscow, and globe-trotting politicians-all maneuvering for power. <br><br>With the world as his canvas, acclaimed investigative reporter Tom Bower gathers unprecedented firsthand information from hundreds of sources to give readers the definitive, untold modern history of oil . . . the ultimate story of arrogance, intrigue, and greed.
+                                            [IsLinkSuppressed] => 0
+                                        )
+
+                                )
+
+                        )
+
+                    [2] => SimpleXMLElement Object
+                        (
+                            [ASIN] => 0230102085
+                            [DetailPageURL] => http://www.amazon.com/Why-We-Hate-Oil-Companies/dp/0230102085%3FSubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0230102085
+                            [ItemLinks] => SimpleXMLElement Object
+                                (
+                                    [ItemLink] => Array
+                                        (
+                                            [0] => SimpleXMLElement Object
+                                                (
+                                                    [Description] => Technical Details
+                                                    [URL] => http://www.amazon.com/Why-We-Hate-Oil-Companies/dp/tech-data/0230102085%3FSubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0230102085
+                                                )
+
+                                            [1] => SimpleXMLElement Object
+                                                (
+                                                    [Description] => Add To Baby Registry
+                                                    [URL] => http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3D0230102085%26SubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0230102085
+                                                )
+
+                                            [2] => SimpleXMLElement Object
+                                                (
+                                                    [Description] => Add To Wedding Registry
+                                                    [URL] => http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3D0230102085%26SubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0230102085
+                                                )
+
+                                            [3] => SimpleXMLElement Object
+                                                (
+                                                    [Description] => Add To Wishlist
+                                                    [URL] => http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3D0230102085%26SubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0230102085
+                                                )
+
+                                            [4] => SimpleXMLElement Object
+                                                (
+                                                    [Description] => Tell A Friend
+                                                    [URL] => http://www.amazon.com/gp/pdp/taf/0230102085%3FSubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0230102085
+                                                )
+
+                                            [5] => SimpleXMLElement Object
+                                                (
+                                                    [Description] => All Customer Reviews
+                                                    [URL] => http://www.amazon.com/review/product/0230102085%3FSubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0230102085
+                                                )
+
+                                            [6] => SimpleXMLElement Object
+                                                (
+                                                    [Description] => All Offers
+                                                    [URL] => http://www.amazon.com/gp/offer-listing/0230102085%3FSubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0230102085
+                                                )
+
+                                        )
+
+                                )
+
+                            [SalesRank] => 2864
+                            [SmallImage] => SimpleXMLElement Object
+                                (
+                                    [URL] => http://ecx.images-amazon.com/images/I/41ZOJYaOn2L._SL75_.jpg
+                                    [Height] => 75
+                                    [Width] => 49
+                                )
+
+                            [MediumImage] => SimpleXMLElement Object
+                                (
+                                    [URL] => http://ecx.images-amazon.com/images/I/41ZOJYaOn2L._SL160_.jpg
+                                    [Height] => 160
+                                    [Width] => 105
+                                )
+
+                            [LargeImage] => SimpleXMLElement Object
+                                (
+                                    [URL] => http://ecx.images-amazon.com/images/I/41ZOJYaOn2L.jpg
+                                    [Height] => 420
+                                    [Width] => 276
+                                )
+
+                            [ImageSets] => SimpleXMLElement Object
+                                (
+                                    [ImageSet] => SimpleXMLElement Object
+                                        (
+                                            [@attributes] => Array
+                                                (
+                                                    [Category] => primary
+                                                )
+
+                                            [SwatchImage] => SimpleXMLElement Object
+                                                (
+                                                    [URL] => http://ecx.images-amazon.com/images/I/41ZOJYaOn2L._SL30_.jpg
+                                                    [Height] => 30
+                                                    [Width] => 20
+                                                )
+
+                                            [SmallImage] => SimpleXMLElement Object
+                                                (
+                                                    [URL] => http://ecx.images-amazon.com/images/I/41ZOJYaOn2L._SL75_.jpg
+                                                    [Height] => 75
+                                                    [Width] => 49
+                                                )
+
+                                            [ThumbnailImage] => SimpleXMLElement Object
+                                                (
+                                                    [URL] => http://ecx.images-amazon.com/images/I/41ZOJYaOn2L._SL75_.jpg
+                                                    [Height] => 75
+                                                    [Width] => 49
+                                                )
+
+                                            [TinyImage] => SimpleXMLElement Object
+                                                (
+                                                    [URL] => http://ecx.images-amazon.com/images/I/41ZOJYaOn2L._SL110_.jpg
+                                                    [Height] => 110
+                                                    [Width] => 72
+                                                )
+
+                                            [MediumImage] => SimpleXMLElement Object
+                                                (
+                                                    [URL] => http://ecx.images-amazon.com/images/I/41ZOJYaOn2L._SL160_.jpg
+                                                    [Height] => 160
+                                                    [Width] => 105
+                                                )
+
+                                            [LargeImage] => SimpleXMLElement Object
+                                                (
+                                                    [URL] => http://ecx.images-amazon.com/images/I/41ZOJYaOn2L.jpg
+                                                    [Height] => 420
+                                                    [Width] => 276
+                                                )
+
+                                        )
+
+                                )
+
+                            [ItemAttributes] => SimpleXMLElement Object
+                                (
+                                    [Author] => John Hofmeister
+                                    [Binding] => Hardcover
+                                    [DeweyDecimalNumber] => 338.272820973
+                                    [EAN] => 9780230102088
+                                    [Edition] => 1
+                                    [Feature] => Array
+                                        (
+                                            [0] => ISBN13: 9780230102088
+                                            [1] => Condition: New
+                                            [2] => Notes: BUY WITH CONFIDENCE, Over one million books sold! 98% Positive feedback. Compare our books, prices and service to the competition. 100% Satisfaction Guaranteed
+                                        )
+
+                                    [ISBN] => 0230102085
+                                    [Label] => Palgrave Macmillan
+                                    [Languages] => SimpleXMLElement Object
+                                        (
+                                            [Language] => Array
+                                                (
+                                                    [0] => SimpleXMLElement Object
+                                                        (
+                                                            [Name] => English
+                                                            [Type] => Unknown
+                                                        )
+
+                                                    [1] => SimpleXMLElement Object
+                                                        (
+                                                            [Name] => English
+                                                            [Type] => Original Language
+                                                        )
+
+                                                    [2] => SimpleXMLElement Object
+                                                        (
+                                                            [Name] => English
+                                                            [Type] => Published
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [ListPrice] => SimpleXMLElement Object
+                                        (
+                                            [Amount] => 2700
+                                            [CurrencyCode] => USD
+                                            [FormattedPrice] => $27.00
+                                        )
+
+                                    [Manufacturer] => Palgrave Macmillan
+                                    [NumberOfItems] => 1
+                                    [NumberOfPages] => 256
+                                    [PackageDimensions] => SimpleXMLElement Object
+                                        (
+                                            [Height] => 100
+                                            [Length] => 920
+                                            [Weight] => 95
+                                            [Width] => 630
+                                        )
+
+                                    [ProductGroup] => Book
+                                    [ProductTypeName] => ABIS_BOOK
+                                    [PublicationDate] => 2010-05-25
+                                    [Publisher] => Palgrave Macmillan
+                                    [ReleaseDate] => 2010-05-25
+                                    [Studio] => Palgrave Macmillan
+                                    [Title] => Why We Hate the Oil Companies: Straight Talk from an Energy Insider
+                                )
+
+                            [OfferSummary] => SimpleXMLElement Object
+                                (
+                                    [LowestNewPrice] => SimpleXMLElement Object
+                                        (
+                                            [Amount] => 1555
+                                            [CurrencyCode] => USD
+                                            [FormattedPrice] => $15.55
+                                        )
+
+                                    [LowestUsedPrice] => SimpleXMLElement Object
+                                        (
+                                            [Amount] => 1550
+                                            [CurrencyCode] => USD
+                                            [FormattedPrice] => $15.50
+                                        )
+
+                                    [TotalNew] => 35
+                                    [TotalUsed] => 5
+                                    [TotalCollectible] => 0
+                                    [TotalRefurbished] => 0
+                                )
+
+                            [EditorialReviews] => SimpleXMLElement Object
+                                (
+                                    [EditorialReview] => SimpleXMLElement Object
+                                        (
+                                            [Source] => Product Description
+                                            [Content] => <DIV><P>As president of Shell Oil, John Hofmeister was known for being a straight shooter, willing to challenge his peers throughout the industry. Now, he’s a man on a mission, the founder of Citizens for Affordable Energy, crisscrossing the country in a grassroots campaign to change the way we look at energy in this country. While pundits proffer false new promises of green energy independence, or flatly deny the existence of a problem, Hofmeister offers an insider’s view of what’s behind the energy companies’ posturing, and how politicians use energy misinformation, disinformation, and lack of information to get and stay elected. He tackles the energy controversy head-on, without regard for political correctness. He also provides a new framework for solving difficult problems, identifying solutions that will lead to a future of comfortable lifestyles, affordable and clean energy, environmental protection, and sustained economic competitiveness.</P></DIV>
+                                            [IsLinkSuppressed] => 0
+                                        )
+
+                                )
+
+                        )
+
+                    [3] => SimpleXMLElement Object
+                        (
+                            [ASIN] => 0943685494
+                            [DetailPageURL] => http://www.amazon.com/Essential-Oils-Reference-Science-Publishing/dp/0943685494%3FSubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0943685494
+                            [ItemLinks] => SimpleXMLElement Object
+                                (
+                                    [ItemLink] => Array
+                                        (
+                                            [0] => SimpleXMLElement Object
+                                                (
+                                                    [Description] => Technical Details
+                                                    [URL] => http://www.amazon.com/Essential-Oils-Reference-Science-Publishing/dp/tech-data/0943685494%3FSubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0943685494
+                                                )
+
+                                            [1] => SimpleXMLElement Object
+                                                (
+                                                    [Description] => Add To Baby Registry
+                                                    [URL] => http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3D0943685494%26SubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0943685494
+                                                )
+
+                                            [2] => SimpleXMLElement Object
+                                                (
+                                                    [Description] => Add To Wedding Registry
+                                                    [URL] => http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3D0943685494%26SubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0943685494
+                                                )
+
+                                            [3] => SimpleXMLElement Object
+                                                (
+                                                    [Description] => Add To Wishlist
+                                                    [URL] => http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3D0943685494%26SubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0943685494
+                                                )
+
+                                            [4] => SimpleXMLElement Object
+                                                (
+                                                    [Description] => Tell A Friend
+                                                    [URL] => http://www.amazon.com/gp/pdp/taf/0943685494%3FSubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0943685494
+                                                )
+
+                                            [5] => SimpleXMLElement Object
+                                                (
+                                                    [Description] => All Customer Reviews
+                                                    [URL] => http://www.amazon.com/review/product/0943685494%3FSubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0943685494
+                                                )
+
+                                            [6] => SimpleXMLElement Object
+                                                (
+                                                    [Description] => All Offers
+                                                    [URL] => http://www.amazon.com/gp/offer-listing/0943685494%3FSubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0943685494
+                                                )
+
+                                        )
+
+                                )
+
+                            [SalesRank] => 1895
+                            [SmallImage] => SimpleXMLElement Object
+                                (
+                                    [URL] => http://ecx.images-amazon.com/images/I/514oMOdCM7L._SL75_.jpg
+                                    [Height] => 75
+                                    [Width] => 54
+                                )
+
+                            [MediumImage] => SimpleXMLElement Object
+                                (
+                                    [URL] => http://ecx.images-amazon.com/images/I/514oMOdCM7L._SL160_.jpg
+                                    [Height] => 160
+                                    [Width] => 116
+                                )
+
+                            [LargeImage] => SimpleXMLElement Object
+                                (
+                                    [URL] => http://ecx.images-amazon.com/images/I/514oMOdCM7L.jpg
+                                    [Height] => 500
+                                    [Width] => 361
+                                )
+
+                            [ImageSets] => SimpleXMLElement Object
+                                (
+                                    [ImageSet] => SimpleXMLElement Object
+                                        (
+                                            [@attributes] => Array
+                                                (
+                                                    [Category] => primary
+                                                )
+
+                                            [SwatchImage] => SimpleXMLElement Object
+                                                (
+                                                    [URL] => http://ecx.images-amazon.com/images/I/514oMOdCM7L._SL30_.jpg
+                                                    [Height] => 30
+                                                    [Width] => 22
+                                                )
+
+                                            [SmallImage] => SimpleXMLElement Object
+                                                (
+                                                    [URL] => http://ecx.images-amazon.com/images/I/514oMOdCM7L._SL75_.jpg
+                                                    [Height] => 75
+                                                    [Width] => 54
+                                                )
+
+                                            [ThumbnailImage] => SimpleXMLElement Object
+                                                (
+                                                    [URL] => http://ecx.images-amazon.com/images/I/514oMOdCM7L._SL75_.jpg
+                                                    [Height] => 75
+                                                    [Width] => 54
+                                                )
+
+                                            [TinyImage] => SimpleXMLElement Object
+                                                (
+                                                    [URL] => http://ecx.images-amazon.com/images/I/514oMOdCM7L._SL110_.jpg
+                                                    [Height] => 110
+                                                    [Width] => 79
+                                                )
+
+                                            [MediumImage] => SimpleXMLElement Object
+                                                (
+                                                    [URL] => http://ecx.images-amazon.com/images/I/514oMOdCM7L._SL160_.jpg
+                                                    [Height] => 160
+                                                    [Width] => 116
+                                                )
+
+                                            [LargeImage] => SimpleXMLElement Object
+                                                (
+                                                    [URL] => http://ecx.images-amazon.com/images/I/514oMOdCM7L.jpg
+                                                    [Height] => 500
+                                                    [Width] => 361
+                                                )
+
+                                        )
+
+                                )
+
+                            [ItemAttributes] => SimpleXMLElement Object
+                                (
+                                    [Binding] => Hardcover
+                                    [Creator] => Essential Science Publishing
+                                    [DeweyDecimalNumber] => 615
+                                    [EAN] => 9780943685496
+                                    [Edition] => 4
+                                    [ISBN] => 0943685494
+                                    [Label] => Unknown
+                                    [Languages] => SimpleXMLElement Object
+                                        (
+                                            [Language] => Array
+                                                (
+                                                    [0] => SimpleXMLElement Object
+                                                        (
+                                                            [Name] => English
+                                                            [Type] => Unknown
+                                                        )
+
+                                                    [1] => SimpleXMLElement Object
+                                                        (
+                                                            [Name] => English
+                                                            [Type] => Original Language
+                                                        )
+
+                                                    [2] => SimpleXMLElement Object
+                                                        (
+                                                            [Name] => English
+                                                            [Type] => Published
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [ListPrice] => SimpleXMLElement Object
+                                        (
+                                            [Amount] => 4995
+                                            [CurrencyCode] => USD
+                                            [FormattedPrice] => $49.95
+                                        )
+
+                                    [Manufacturer] => Unknown
+                                    [NumberOfPages] => 558
+                                    [PackageDimensions] => SimpleXMLElement Object
+                                        (
+                                            [Height] => 170
+                                            [Length] => 1130
+                                            [Weight] => 410
+                                            [Width] => 890
+                                        )
+
+                                    [ProductGroup] => Book
+                                    [ProductTypeName] => ABIS_BOOK
+                                    [PublicationDate] => 2007-10
+                                    [Publisher] => Unknown
+                                    [Studio] => Unknown
+                                    [Title] => Essential Oils Desk Reference
+                                )
+
+                            [OfferSummary] => SimpleXMLElement Object
+                                (
+                                    [LowestNewPrice] => SimpleXMLElement Object
+                                        (
+                                            [Amount] => 3996
+                                            [CurrencyCode] => USD
+                                            [FormattedPrice] => $39.96
+                                        )
+
+                                    [LowestUsedPrice] => SimpleXMLElement Object
+                                        (
+                                            [Amount] => 4189
+                                            [CurrencyCode] => USD
+                                            [FormattedPrice] => $41.89
+                                        )
+
+                                    [TotalNew] => 16
+                                    [TotalUsed] => 12
+                                    [TotalCollectible] => 0
+                                    [TotalRefurbished] => 0
+                                )
+
+                        )
+
+                    [4] => SimpleXMLElement Object
+                        (
+                            [ASIN] => 0982039204
+                            [DetailPageURL] => http://www.amazon.com/Oil-101-Morgan-Downey/dp/0982039204%3FSubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0982039204
+                            [ItemLinks] => SimpleXMLElement Object
+                                (
+                                    [ItemLink] => Array
+                                        (
+                                            [0] => SimpleXMLElement Object
+                                                (
+                                                    [Description] => Technical Details
+                                                    [URL] => http://www.amazon.com/Oil-101-Morgan-Downey/dp/tech-data/0982039204%3FSubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0982039204
+                                                )
+
+                                            [1] => SimpleXMLElement Object
+                                                (
+                                                    [Description] => Add To Baby Registry
+                                                    [URL] => http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3D0982039204%26SubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0982039204
+                                                )
+
+                                            [2] => SimpleXMLElement Object
+                                                (
+                                                    [Description] => Add To Wedding Registry
+                                                    [URL] => http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3D0982039204%26SubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0982039204
+                                                )
+
+                                            [3] => SimpleXMLElement Object
+                                                (
+                                                    [Description] => Add To Wishlist
+                                                    [URL] => http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3D0982039204%26SubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0982039204
+                                                )
+
+                                            [4] => SimpleXMLElement Object
+                                                (
+                                                    [Description] => Tell A Friend
+                                                    [URL] => http://www.amazon.com/gp/pdp/taf/0982039204%3FSubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0982039204
+                                                )
+
+                                            [5] => SimpleXMLElement Object
+                                                (
+                                                    [Description] => All Customer Reviews
+                                                    [URL] => http://www.amazon.com/review/product/0982039204%3FSubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0982039204
+                                                )
+
+                                            [6] => SimpleXMLElement Object
+                                                (
+                                                    [Description] => All Offers
+                                                    [URL] => http://www.amazon.com/gp/offer-listing/0982039204%3FSubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0982039204
+                                                )
+
+                                        )
+
+                                )
+
+                            [SalesRank] => 2125
+                            [SmallImage] => SimpleXMLElement Object
+                                (
+                                    [URL] => http://ecx.images-amazon.com/images/I/21DtwxeRCBL._SL75_.jpg
+                                    [Height] => 75
+                                    [Width] => 50
+                                )
+
+                            [MediumImage] => SimpleXMLElement Object
+                                (
+                                    [URL] => http://ecx.images-amazon.com/images/I/21DtwxeRCBL._SL160_.jpg
+                                    [Height] => 160
+                                    [Width] => 107
+                                )
+
+                            [LargeImage] => SimpleXMLElement Object
+                                (
+                                    [URL] => http://ecx.images-amazon.com/images/I/21DtwxeRCBL.jpg
+                                    [Height] => 500
+                                    [Width] => 333
+                                )
+
+                            [ImageSets] => SimpleXMLElement Object
+                                (
+                                    [ImageSet] => SimpleXMLElement Object
+                                        (
+                                            [@attributes] => Array
+                                                (
+                                                    [Category] => primary
+                                                )
+
+                                            [SwatchImage] => SimpleXMLElement Object
+                                                (
+                                                    [URL] => http://ecx.images-amazon.com/images/I/21DtwxeRCBL._SL30_.jpg
+                                                    [Height] => 30
+                                                    [Width] => 20
+                                                )
+
+                                            [SmallImage] => SimpleXMLElement Object
+                                                (
+                                                    [URL] => http://ecx.images-amazon.com/images/I/21DtwxeRCBL._SL75_.jpg
+                                                    [Height] => 75
+                                                    [Width] => 50
+                                                )
+
+                                            [ThumbnailImage] => SimpleXMLElement Object
+                                                (
+                                                    [URL] => http://ecx.images-amazon.com/images/I/21DtwxeRCBL._SL75_.jpg
+                                                    [Height] => 75
+                                                    [Width] => 50
+                                                )
+
+                                            [TinyImage] => SimpleXMLElement Object
+                                                (
+                                                    [URL] => http://ecx.images-amazon.com/images/I/21DtwxeRCBL._SL110_.jpg
+                                                    [Height] => 110
+                                                    [Width] => 73
+                                                )
+
+                                            [MediumImage] => SimpleXMLElement Object
+                                                (
+                                                    [URL] => http://ecx.images-amazon.com/images/I/21DtwxeRCBL._SL160_.jpg
+                                                    [Height] => 160
+                                                    [Width] => 107
+                                                )
+
+                                            [LargeImage] => SimpleXMLElement Object
+                                                (
+                                                    [URL] => http://ecx.images-amazon.com/images/I/21DtwxeRCBL.jpg
+                                                    [Height] => 500
+                                                    [Width] => 333
+                                                )
+
+                                        )
+
+                                )
+
+                            [ItemAttributes] => SimpleXMLElement Object
+                                (
+                                    [Author] => Morgan Downey
+                                    [Binding] => Hardcover
+                                    [EAN] => 9780982039205
+                                    [Edition] => 1st
+                                    [ISBN] => 0982039204
+                                    [Label] => Wooden Table Press
+                                    [Languages] => SimpleXMLElement Object
+                                        (
+                                            [Language] => Array
+                                                (
+                                                    [0] => SimpleXMLElement Object
+                                                        (
+                                                            [Name] => English
+                                                            [Type] => Unknown
+                                                        )
+
+                                                    [1] => SimpleXMLElement Object
+                                                        (
+                                                            [Name] => English
+                                                            [Type] => Original Language
+                                                        )
+
+                                                    [2] => SimpleXMLElement Object
+                                                        (
+                                                            [Name] => English
+                                                            [Type] => Published
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [ListPrice] => SimpleXMLElement Object
+                                        (
+                                            [Amount] => 2995
+                                            [CurrencyCode] => USD
+                                            [FormattedPrice] => $29.95
+                                        )
+
+                                    [Manufacturer] => Wooden Table Press
+                                    [NumberOfItems] => 1
+                                    [NumberOfPages] => 452
+                                    [PackageDimensions] => SimpleXMLElement Object
+                                        (
+                                            [Height] => 150
+                                            [Length] => 900
+                                            [Weight] => 165
+                                            [Width] => 640
+                                        )
+
+                                    [ProductGroup] => Book
+                                    [ProductTypeName] => ABIS_BOOK
+                                    [PublicationDate] => 2009-01-01
+                                    [Publisher] => Wooden Table Press
+                                    [Studio] => Wooden Table Press
+                                    [Title] => Oil 101
+                                )
+
+                            [OfferSummary] => SimpleXMLElement Object
+                                (
+                                    [LowestNewPrice] => SimpleXMLElement Object
+                                        (
+                                            [Amount] => 2396
+                                            [CurrencyCode] => USD
+                                            [FormattedPrice] => $23.96
+                                        )
+
+                                    [LowestUsedPrice] => SimpleXMLElement Object
+                                        (
+                                            [Amount] => 3000
+                                            [CurrencyCode] => USD
+                                            [FormattedPrice] => $30.00
+                                        )
+
+                                    [TotalNew] => 11
+                                    [TotalUsed] => 7
+                                    [TotalCollectible] => 0
+                                    [TotalRefurbished] => 0
+                                )
+
+                            [EditorialReviews] => SimpleXMLElement Object
+                                (
+                                    [EditorialReview] => SimpleXMLElement Object
+                                        (
+                                            [Source] => Product Description
+                                            [Content] => OIL 101 is a straightforward guide to oil and an essential read for anyone coming to grips with where oil prices, the economy and society are headed.<p>In OIL 101, Downey provides the facts one needs to understand oil, from its history and chemistry, to refining, finished products, storage, transportation, alternatives, and how prices are determined every day in global wholesale oil markets and how those markets are connected to prices at the pump.
+                                            [IsLinkSuppressed] => 0
+                                        )
+
+                                )
+
+                        )
+
+                    [5] => SimpleXMLElement Object
+                        (
+                            [ASIN] => 0758238053
+                            [DetailPageURL] => http://www.amazon.com/Healing-Powers-Olive-Oil-Complete/dp/0758238053%3FSubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0758238053
+                            [ItemLinks] => SimpleXMLElement Object
+                                (
+                                    [ItemLink] => Array
+                                        (
+                                            [0] => SimpleXMLElement Object
+                                                (
+                                                    [Description] => Technical Details
+                                                    [URL] => http://www.amazon.com/Healing-Powers-Olive-Oil-Complete/dp/tech-data/0758238053%3FSubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0758238053
+                                                )
+
+                                            [1] => SimpleXMLElement Object
+                                                (
+                                                    [Description] => Add To Baby Registry
+                                                    [URL] => http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3D0758238053%26SubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0758238053
+                                                )
+
+                                            [2] => SimpleXMLElement Object
+                                                (
+                                                    [Description] => Add To Wedding Registry
+                                                    [URL] => http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3D0758238053%26SubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0758238053
+                                                )
+
+                                            [3] => SimpleXMLElement Object
+                                                (
+                                                    [Description] => Add To Wishlist
+                                                    [URL] => http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3D0758238053%26SubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0758238053
+                                                )
+
+                                            [4] => SimpleXMLElement Object
+                                                (
+                                                    [Description] => Tell A Friend
+                                                    [URL] => http://www.amazon.com/gp/pdp/taf/0758238053%3FSubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0758238053
+                                                )
+
+                                            [5] => SimpleXMLElement Object
+                                                (
+                                                    [Description] => All Customer Reviews
+                                                    [URL] => http://www.amazon.com/review/product/0758238053%3FSubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0758238053
+                                                )
+
+                                            [6] => SimpleXMLElement Object
+                                                (
+                                                    [Description] => All Offers
+                                                    [URL] => http://www.amazon.com/gp/offer-listing/0758238053%3FSubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0758238053
+                                                )
+
+                                        )
+
+                                )
+
+                            [SalesRank] => 15376
+                            [SmallImage] => SimpleXMLElement Object
+                                (
+                                    [URL] => http://ecx.images-amazon.com/images/I/515torX635L._SL75_.jpg
+                                    [Height] => 75
+                                    [Width] => 46
+                                )
+
+                            [MediumImage] => SimpleXMLElement Object
+                                (
+                                    [URL] => http://ecx.images-amazon.com/images/I/515torX635L._SL160_.jpg
+                                    [Height] => 160
+                                    [Width] => 99
+                                )
+
+                            [LargeImage] => SimpleXMLElement Object
+                                (
+                                    [URL] => http://ecx.images-amazon.com/images/I/515torX635L.jpg
+                                    [Height] => 500
+                                    [Width] => 310
+                                )
+
+                            [ImageSets] => SimpleXMLElement Object
+                                (
+                                    [ImageSet] => SimpleXMLElement Object
+                                        (
+                                            [@attributes] => Array
+                                                (
+                                                    [Category] => primary
+                                                )
+
+                                            [SwatchImage] => SimpleXMLElement Object
+                                                (
+                                                    [URL] => http://ecx.images-amazon.com/images/I/515torX635L._SL30_.jpg
+                                                    [Height] => 30
+                                                    [Width] => 19
+                                                )
+
+                                            [SmallImage] => SimpleXMLElement Object
+                                                (
+                                                    [URL] => http://ecx.images-amazon.com/images/I/515torX635L._SL75_.jpg
+                                                    [Height] => 75
+                                                    [Width] => 46
+                                                )
+
+                                            [ThumbnailImage] => SimpleXMLElement Object
+                                                (
+                                                    [URL] => http://ecx.images-amazon.com/images/I/515torX635L._SL75_.jpg
+                                                    [Height] => 75
+                                                    [Width] => 46
+                                                )
+
+                                            [TinyImage] => SimpleXMLElement Object
+                                                (
+                                                    [URL] => http://ecx.images-amazon.com/images/I/515torX635L._SL110_.jpg
+                                                    [Height] => 110
+                                                    [Width] => 68
+                                                )
+
+                                            [MediumImage] => SimpleXMLElement Object
+                                                (
+                                                    [URL] => http://ecx.images-amazon.com/images/I/515torX635L._SL160_.jpg
+                                                    [Height] => 160
+                                                    [Width] => 99
+                                                )
+
+                                            [LargeImage] => SimpleXMLElement Object
+                                                (
+                                                    [URL] => http://ecx.images-amazon.com/images/I/515torX635L.jpg
+                                                    [Height] => 500
+                                                    [Width] => 310
+                                                )
+
+                                        )
+
+                                )
+
+                            [ItemAttributes] => SimpleXMLElement Object
+                                (
+                                    [Author] => Cal Orey
+                                    [Binding] => Paperback
+                                    [DeweyDecimalNumber] => 615
+                                    [EAN] => 9780758238054
+                                    [ISBN] => 0758238053
+                                    [Label] => Kensington Publishing Corporation
+                                    [Languages] => SimpleXMLElement Object
+                                        (
+                                            [Language] => Array
+                                                (
+                                                    [0] => SimpleXMLElement Object
+                                                        (
+                                                            [Name] => English
+                                                            [Type] => Unknown
+                                                        )
+
+                                                    [1] => SimpleXMLElement Object
+                                                        (
+                                                            [Name] => English
+                                                            [Type] => Original Language
+                                                        )
+
+                                                    [2] => SimpleXMLElement Object
+                                                        (
+                                                            [Name] => English
+                                                            [Type] => Published
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [ListPrice] => SimpleXMLElement Object
+                                        (
+                                            [Amount] => 699
+                                            [CurrencyCode] => USD
+                                            [FormattedPrice] => $6.99
+                                        )
+
+                                    [Manufacturer] => Kensington Publishing Corporation
+                                    [NumberOfItems] => 1
+                                    [NumberOfPages] => 320
+                                    [PackageDimensions] => SimpleXMLElement Object
+                                        (
+                                            [Height] => 110
+                                            [Length] => 660
+                                            [Weight] => 30
+                                            [Width] => 410
+                                        )
+
+                                    [ProductGroup] => Book
+                                    [ProductTypeName] => ABIS_BOOK
+                                    [PublicationDate] => 2009-01-01
+                                    [Publisher] => Kensington Publishing Corporation
+                                    [Studio] => Kensington Publishing Corporation
+                                    [Title] => The Healing Powers of Olive Oil: A Complete Guide to Nature's Liquid Gold
+                                )
+
+                            [OfferSummary] => SimpleXMLElement Object
+                                (
+                                    [LowestNewPrice] => SimpleXMLElement Object
+                                        (
+                                            [Amount] => 414
+                                            [CurrencyCode] => USD
+                                            [FormattedPrice] => $4.14
+                                        )
+
+                                    [LowestUsedPrice] => SimpleXMLElement Object
+                                        (
+                                            [Amount] => 405
+                                            [CurrencyCode] => USD
+                                            [FormattedPrice] => $4.05
+                                        )
+
+                                    [TotalNew] => 9
+                                    [TotalUsed] => 5
+                                    [TotalCollectible] => 0
+                                    [TotalRefurbished] => 0
+                                )
+
+                            [EditorialReviews] => SimpleXMLElement Object
+                                (
+                                    [EditorialReview] => SimpleXMLElement Object
+                                        (
+                                            [Source] => Product Description
+                                            [Content] => Lose Weight...Lower Cholesterol And Blood Pressure...Prevent Heart Disease And Cancer...Live Longer...And So Much More!<br><P><br>Discover The Amazing Powers Of Olive Oil!<br><P><br>From ancient times to present-day, olive oil has been used for everything from health ailments to beauty and the home and so much more. Now evidence shows that a diet based on olive oil can add years to your life and may even prevent some diseases. Health author-journalist Cal Orey has consulted top doctors, nutritionists, olive oil producers, and chefs, getting the most up-to-date information on the many benefits of olive oil, such as:<br><P><br>HEALTH IMPROVEMENTS: <P><br><br>Relieving arthritis aches<BR><br>Inhibiting breast and colon cancer<BR>Preventing diabetes<BR>Reducing pain<BR>Staving off ulcers<BR>Fighting impaired memory<P>HOME CURES: <BR>Soothing diaper rash<BR>Reducing hair loss<BR>Cleaning your house, naturally<BR>Minimizing stretch marks and wrinkles<BR>Zapping ticks and conditioning your pet's coat<BR>And more information that everyone should know!<P><br>Includes dozens of delicious recipes that make olive oil a vital part of a long and healthy life!<br><BR>"The best and highly practical information about the core of the longevity-boosting Mediterranean diet." Karlis Ullis, M.D., Medical Director of Sports Medicine and Anti-Aging Medical Group in Santa Monica, California<P>Cal Orey is an accomplished author and journalist specializing in topics such as health, nutrition, science, and pets. Her books include <I>202 Pet Peeves, Doctors' Orders,</I> and <I>The Healing Powers of Olive Oil.</I> She lives in northern California.
+                                            [IsLinkSuppressed] => 0
+                                        )
+
+                                )
+
+                        )
+
+                    [6] => SimpleXMLElement Object
+                        (
+                            [ASIN] => 0931432820
+                            [DetailPageURL] => http://www.amazon.com/Complete-Book-Essential-Oils-Aromatherapy/dp/0931432820%3FSubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0931432820
+                            [ItemLinks] => SimpleXMLElement Object
+                                (
+                                    [ItemLink] => Array
+                                        (
+                                            [0] => SimpleXMLElement Object
+                                                (
+                                                    [Description] => Technical Details
+                                                    [URL] => http://www.amazon.com/Complete-Book-Essential-Oils-Aromatherapy/dp/tech-data/0931432820%3FSubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0931432820
+                                                )
+
+                                            [1] => SimpleXMLElement Object
+                                                (
+                                                    [Description] => Add To Baby Registry
+                                                    [URL] => http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3D0931432820%26SubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0931432820
+                                                )
+
+                                            [2] => SimpleXMLElement Object
+                                                (
+                                                    [Description] => Add To Wedding Registry
+                                                    [URL] => http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3D0931432820%26SubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0931432820
+                                                )
+
+                                            [3] => SimpleXMLElement Object
+                                                (
+                                                    [Description] => Add To Wishlist
+                                                    [URL] => http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3D0931432820%26SubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0931432820
+                                                )
+
+                                            [4] => SimpleXMLElement Object
+                                                (
+                                                    [Description] => Tell A Friend
+                                                    [URL] => http://www.amazon.com/gp/pdp/taf/0931432820%3FSubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0931432820
+                                                )
+
+                                            [5] => SimpleXMLElement Object
+                                                (
+                                                    [Description] => All Customer Reviews
+                                                    [URL] => http://www.amazon.com/review/product/0931432820%3FSubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0931432820
+                                                )
+
+                                            [6] => SimpleXMLElement Object
+                                                (
+                                                    [Description] => All Offers
+                                                    [URL] => http://www.amazon.com/gp/offer-listing/0931432820%3FSubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0931432820
+                                                )
+
+                                        )
+
+                                )
+
+                            [SalesRank] => 2289
+                            [SmallImage] => SimpleXMLElement Object
+                                (
+                                    [URL] => http://ecx.images-amazon.com/images/I/51rWQDqzLHL._SL75_.jpg
+                                    [Height] => 75
+                                    [Width] => 47
+                                )
+
+                            [MediumImage] => SimpleXMLElement Object
+                                (
+                                    [URL] => http://ecx.images-amazon.com/images/I/51rWQDqzLHL._SL160_.jpg
+                                    [Height] => 160
+                                    [Width] => 101
+                                )
+
+                            [LargeImage] => SimpleXMLElement Object
+                                (
+                                    [URL] => http://ecx.images-amazon.com/images/I/51rWQDqzLHL.jpg
+                                    [Height] => 500
+                                    [Width] => 315
+                                )
+
+                            [ImageSets] => SimpleXMLElement Object
+                                (
+                                    [ImageSet] => SimpleXMLElement Object
+                                        (
+                                            [@attributes] => Array
+                                                (
+                                                    [Category] => primary
+                                                )
+
+                                            [SwatchImage] => SimpleXMLElement Object
+                                                (
+                                                    [URL] => http://ecx.images-amazon.com/images/I/51rWQDqzLHL._SL30_.jpg
+                                                    [Height] => 30
+                                                    [Width] => 19
+                                                )
+
+                                            [SmallImage] => SimpleXMLElement Object
+                                                (
+                                                    [URL] => http://ecx.images-amazon.com/images/I/51rWQDqzLHL._SL75_.jpg
+                                                    [Height] => 75
+                                                    [Width] => 47
+                                                )
+
+                                            [ThumbnailImage] => SimpleXMLElement Object
+                                                (
+                                                    [URL] => http://ecx.images-amazon.com/images/I/51rWQDqzLHL._SL75_.jpg
+                                                    [Height] => 75
+                                                    [Width] => 47
+                                                )
+
+                                            [TinyImage] => SimpleXMLElement Object
+                                                (
+                                                    [URL] => http://ecx.images-amazon.com/images/I/51rWQDqzLHL._SL110_.jpg
+                                                    [Height] => 110
+                                                    [Width] => 69
+                                                )
+
+                                            [MediumImage] => SimpleXMLElement Object
+                                                (
+                                                    [URL] => http://ecx.images-amazon.com/images/I/51rWQDqzLHL._SL160_.jpg
+                                                    [Height] => 160
+                                                    [Width] => 101
+                                                )
+
+                                            [LargeImage] => SimpleXMLElement Object
+                                                (
+                                                    [URL] => http://ecx.images-amazon.com/images/I/51rWQDqzLHL.jpg
+                                                    [Height] => 500
+                                                    [Width] => 315
+                                                )
+
+                                        )
+
+                                )
+
+                            [ItemAttributes] => SimpleXMLElement Object
+                                (
+                                    [Author] => Valerie Ann Worwood
+                                    [Binding] => Paperback
+                                    [DeweyDecimalNumber] => 615.321
+                                    [EAN] => 9780931432828
+                                    [Edition] => 1st
+                                    [ISBN] => 0931432820
+                                    [Label] => New World Library
+                                    [Languages] => SimpleXMLElement Object
+                                        (
+                                            [Language] => Array
+                                                (
+                                                    [0] => SimpleXMLElement Object
+                                                        (
+                                                            [Name] => English
+                                                            [Type] => Unknown
+                                                        )
+
+                                                    [1] => SimpleXMLElement Object
+                                                        (
+                                                            [Name] => English
+                                                            [Type] => Original Language
+                                                        )
+
+                                                    [2] => SimpleXMLElement Object
+                                                        (
+                                                            [Name] => English
+                                                            [Type] => Published
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [ListPrice] => SimpleXMLElement Object
+                                        (
+                                            [Amount] => 1995
+                                            [CurrencyCode] => USD
+                                            [FormattedPrice] => $19.95
+                                        )
+
+                                    [Manufacturer] => New World Library
+                                    [NumberOfItems] => 1
+                                    [NumberOfPages] => 448
+                                    [PackageDimensions] => SimpleXMLElement Object
+                                        (
+                                            [Height] => 120
+                                            [Length] => 920
+                                            [Weight] => 140
+                                            [Width] => 610
+                                        )
+
+                                    [ProductGroup] => Book
+                                    [ProductTypeName] => ABIS_BOOK
+                                    [PublicationDate] => 1991
+                                    [Publisher] => New World Library
+                                    [Studio] => New World Library
+                                    [Title] => The Complete Book of Essential Oils and Aromatherapy: Over 600 Natural, Non-Toxic and Fragrant Recipes to Create Health - Beauty - a Safe Home Environment
+                                )
+
+                            [OfferSummary] => SimpleXMLElement Object
+                                (
+                                    [LowestNewPrice] => SimpleXMLElement Object
+                                        (
+                                            [Amount] => 995
+                                            [CurrencyCode] => USD
+                                            [FormattedPrice] => $9.95
+                                        )
+
+                                    [LowestUsedPrice] => SimpleXMLElement Object
+                                        (
+                                            [Amount] => 445
+                                            [CurrencyCode] => USD
+                                            [FormattedPrice] => $4.45
+                                        )
+
+                                    [LowestCollectiblePrice] => SimpleXMLElement Object
+                                        (
+                                            [Amount] => 1688
+                                            [CurrencyCode] => USD
+                                            [FormattedPrice] => $16.88
+                                        )
+
+                                    [TotalNew] => 46
+                                    [TotalUsed] => 132
+                                    [TotalCollectible] => 4
+                                    [TotalRefurbished] => 0
+                                )
+
+                            [EditorialReviews] => SimpleXMLElement Object
+                                (
+                                    [EditorialReview] => SimpleXMLElement Object
+                                        (
+                                            [Source] => Product Description
+                                            [Content] => Essential oils are one of the world's great untapped resources. This complete volume explains how to incorporate these ancient medicines of the earth into everyday life for personal care, physical and mental health, and a safe home environment. It gives more than 500 recipes using essential oils as alternatives to often toxic human-made health, beauty, and cleaning products.
+                                            [IsLinkSuppressed] => 0
+                                        )
+
+                                )
+
+                        )
+
+                    [7] => SimpleXMLElement Object
+                        (
+                            [ASIN] => 0312570740
+                            [DetailPageURL] => http://www.amazon.com/King-Oil-Secret-Lives-Marc/dp/0312570740%3FSubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0312570740
+                            [ItemLinks] => SimpleXMLElement Object
+                                (
+                                    [ItemLink] => Array
+                                        (
+                                            [0] => SimpleXMLElement Object
+                                                (
+                                                    [Description] => Technical Details
+                                                    [URL] => http://www.amazon.com/King-Oil-Secret-Lives-Marc/dp/tech-data/0312570740%3FSubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0312570740
+                                                )
+
+                                            [1] => SimpleXMLElement Object
+                                                (
+                                                    [Description] => Add To Baby Registry
+                                                    [URL] => http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3D0312570740%26SubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0312570740
+                                                )
+
+                                            [2] => SimpleXMLElement Object
+                                                (
+                                                    [Description] => Add To Wedding Registry
+                                                    [URL] => http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3D0312570740%26SubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0312570740
+                                                )
+
+                                            [3] => SimpleXMLElement Object
+                                                (
+                                                    [Description] => Add To Wishlist
+                                                    [URL] => http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3D0312570740%26SubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0312570740
+                                                )
+
+                                            [4] => SimpleXMLElement Object
+                                                (
+                                                    [Description] => Tell A Friend
+                                                    [URL] => http://www.amazon.com/gp/pdp/taf/0312570740%3FSubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0312570740
+                                                )
+
+                                            [5] => SimpleXMLElement Object
+                                                (
+                                                    [Description] => All Customer Reviews
+                                                    [URL] => http://www.amazon.com/review/product/0312570740%3FSubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0312570740
+                                                )
+
+                                            [6] => SimpleXMLElement Object
+                                                (
+                                                    [Description] => All Offers
+                                                    [URL] => http://www.amazon.com/gp/offer-listing/0312570740%3FSubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0312570740
+                                                )
+
+                                        )
+
+                                )
+
+                            [SalesRank] => 9227
+                            [SmallImage] => SimpleXMLElement Object
+                                (
+                                    [URL] => http://ecx.images-amazon.com/images/I/51J4teENaLL._SL75_.jpg
+                                    [Height] => 75
+                                    [Width] => 50
+                                )
+
+                            [MediumImage] => SimpleXMLElement Object
+                                (
+                                    [URL] => http://ecx.images-amazon.com/images/I/51J4teENaLL._SL160_.jpg
+                                    [Height] => 160
+                                    [Width] => 106
+                                )
+
+                            [LargeImage] => SimpleXMLElement Object
+                                (
+                                    [URL] => http://ecx.images-amazon.com/images/I/51J4teENaLL.jpg
+                                    [Height] => 500
+                                    [Width] => 331
+                                )
+
+                            [ImageSets] => SimpleXMLElement Object
+                                (
+                                    [ImageSet] => SimpleXMLElement Object
+                                        (
+                                            [@attributes] => Array
+                                                (
+                                                    [Category] => primary
+                                                )
+
+                                            [SwatchImage] => SimpleXMLElement Object
+                                                (
+                                                    [URL] => http://ecx.images-amazon.com/images/I/51J4teENaLL._SL30_.jpg
+                                                    [Height] => 30
+                                                    [Width] => 20
+                                                )
+
+                                            [SmallImage] => SimpleXMLElement Object
+                                                (
+                                                    [URL] => http://ecx.images-amazon.com/images/I/51J4teENaLL._SL75_.jpg
+                                                    [Height] => 75
+                                                    [Width] => 50
+                                                )
+
+                                            [ThumbnailImage] => SimpleXMLElement Object
+                                                (
+                                                    [URL] => http://ecx.images-amazon.com/images/I/51J4teENaLL._SL75_.jpg
+                                                    [Height] => 75
+                                                    [Width] => 50
+                                                )
+
+                                            [TinyImage] => SimpleXMLElement Object
+                                                (
+                                                    [URL] => http://ecx.images-amazon.com/images/I/51J4teENaLL._SL110_.jpg
+                                                    [Height] => 110
+                                                    [Width] => 73
+                                                )
+
+                                            [MediumImage] => SimpleXMLElement Object
+                                                (
+                                                    [URL] => http://ecx.images-amazon.com/images/I/51J4teENaLL._SL160_.jpg
+                                                    [Height] => 160
+                                                    [Width] => 106
+                                                )
+
+                                            [LargeImage] => SimpleXMLElement Object
+                                                (
+                                                    [URL] => http://ecx.images-amazon.com/images/I/51J4teENaLL.jpg
+                                                    [Height] => 500
+                                                    [Width] => 331
+                                                )
+
+                                        )
+
+                                )
+
+                            [ItemAttributes] => SimpleXMLElement Object
+                                (
+                                    [Author] => Daniel Ammann
+                                    [Binding] => Hardcover
+                                    [DeweyDecimalNumber] => 381.42282092
+                                    [EAN] => 9780312570743
+                                    [Edition] => First Edition
+                                    [Feature] => Array
+                                        (
+                                            [0] => ISBN13: 9780312570743
+                                            [1] => Condition: New
+                                            [2] => Notes: BUY WITH CONFIDENCE, Over one million books sold! 98% Positive feedback. Compare our books, prices and service to the competition. 100% Satisfaction Guaranteed
+                                        )
+
+                                    [ISBN] => 0312570740
+                                    [Label] => St. Martin's Press
+                                    [Languages] => SimpleXMLElement Object
+                                        (
+                                            [Language] => Array
+                                                (
+                                                    [0] => SimpleXMLElement Object
+                                                        (
+                                                            [Name] => English
+                                                            [Type] => Unknown
+                                                        )
+
+                                                    [1] => SimpleXMLElement Object
+                                                        (
+                                                            [Name] => English
+                                                            [Type] => Original Language
+                                                        )
+
+                                                    [2] => SimpleXMLElement Object
+                                                        (
+                                                            [Name] => English
+                                                            [Type] => Published
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [ListPrice] => SimpleXMLElement Object
+                                        (
+                                            [Amount] => 2699
+                                            [CurrencyCode] => USD
+                                            [FormattedPrice] => $26.99
+                                        )
+
+                                    [Manufacturer] => St. Martin's Press
+                                    [NumberOfItems] => 1
+                                    [NumberOfPages] => 320
+                                    [PackageDimensions] => SimpleXMLElement Object
+                                        (
+                                            [Height] => 134
+                                            [Length] => 921
+                                            [Weight] => 115
+                                            [Width] => 614
+                                        )
+
+                                    [ProductGroup] => Book
+                                    [ProductTypeName] => ABIS_BOOK
+                                    [PublicationDate] => 2009-10-13
+                                    [Publisher] => St. Martin's Press
+                                    [ReleaseDate] => 2009-10-13
+                                    [Studio] => St. Martin's Press
+                                    [Title] => The King of Oil: The Secret Lives of Marc Rich
+                                )
+
+                            [OfferSummary] => SimpleXMLElement Object
+                                (
+                                    [LowestNewPrice] => SimpleXMLElement Object
+                                        (
+                                            [Amount] => 1441
+                                            [CurrencyCode] => USD
+                                            [FormattedPrice] => $14.41
+                                        )
+
+                                    [LowestUsedPrice] => SimpleXMLElement Object
+                                        (
+                                            [Amount] => 1441
+                                            [CurrencyCode] => USD
+                                            [FormattedPrice] => $14.41
+                                        )
+
+                                    [LowestCollectiblePrice] => SimpleXMLElement Object
+                                        (
+                                            [Amount] => 2999
+                                            [CurrencyCode] => USD
+                                            [FormattedPrice] => $29.99
+                                        )
+
+                                    [TotalNew] => 28
+                                    [TotalUsed] => 6
+                                    [TotalCollectible] => 1
+                                    [TotalRefurbished] => 0
+                                )
+
+                            [EditorialReviews] => SimpleXMLElement Object
+                                (
+                                    [EditorialReview] => SimpleXMLElement Object
+                                        (
+                                            [Source] => Product Description
+                                            [Content] => <DIV><DIV><DIV><P style="MARGIN: 0in 0in 0pt">Billionaire oil trader Marc Rich for the first time talks at length about his private life (including his expensive divorce from wife Denise); his invention of the spot oil market which made his fortune and changed the world economy; his lucrative and unpublicized dealings with Ayatollah Khomeini’s Iran, Fidel Castro’s Cuba, war-ravaged Angola, and apartheid South Africa; his quiet cooperation with the Israeli and U.S. governments (even after he was indicted for tax fraud by Rudy Guiliani) and near-comical attempts by U.S. officials to kidnap him illegally.</P><P>This sure-to-make-headlines book is the first no-holds-barred biography of Rich, who was famously pardoned by Bill Clinton, and resurfaced in the news during the confirmation hearings of Attorney General Eric Holder. It sheds stunning new light on one of the most controversial international businessmen of all time, charting Rich’s rise from the Holocaust, which he fled as a young boy, to become the wealthiest and most powerful oil and commodities trader of the century. From his earliest trading days to the present, Marc Rich’s story is astonishing and compelling.</P></DIV></DIV><P></P></DIV>
+                                            [IsLinkSuppressed] => 0
+                                        )
+
+                                )
+
+                        )
+
+                    [8] => SimpleXMLElement Object
+                        (
+                            [ASIN] => 0896087824
+                            [DetailPageURL] => http://www.amazon.com/Soil-Not-Oil-Environmental-Justice/dp/0896087824%3FSubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0896087824
+                            [ItemLinks] => SimpleXMLElement Object
+                                (
+                                    [ItemLink] => Array
+                                        (
+                                            [0] => SimpleXMLElement Object
+                                                (
+                                                    [Description] => Technical Details
+                                                    [URL] => http://www.amazon.com/Soil-Not-Oil-Environmental-Justice/dp/tech-data/0896087824%3FSubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0896087824
+                                                )
+
+                                            [1] => SimpleXMLElement Object
+                                                (
+                                                    [Description] => Add To Baby Registry
+                                                    [URL] => http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3D0896087824%26SubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0896087824
+                                                )
+
+                                            [2] => SimpleXMLElement Object
+                                                (
+                                                    [Description] => Add To Wedding Registry
+                                                    [URL] => http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3D0896087824%26SubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0896087824
+                                                )
+
+                                            [3] => SimpleXMLElement Object
+                                                (
+                                                    [Description] => Add To Wishlist
+                                                    [URL] => http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3D0896087824%26SubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0896087824
+                                                )
+
+                                            [4] => SimpleXMLElement Object
+                                                (
+                                                    [Description] => Tell A Friend
+                                                    [URL] => http://www.amazon.com/gp/pdp/taf/0896087824%3FSubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0896087824
+                                                )
+
+                                            [5] => SimpleXMLElement Object
+                                                (
+                                                    [Description] => All Customer Reviews
+                                                    [URL] => http://www.amazon.com/review/product/0896087824%3FSubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0896087824
+                                                )
+
+                                            [6] => SimpleXMLElement Object
+                                                (
+                                                    [Description] => All Offers
+                                                    [URL] => http://www.amazon.com/gp/offer-listing/0896087824%3FSubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0896087824
+                                                )
+
+                                        )
+
+                                )
+
+                            [SalesRank] => 8253
+                            [SmallImage] => SimpleXMLElement Object
+                                (
+                                    [URL] => http://ecx.images-amazon.com/images/I/51MSeyNLpIL._SL75_.jpg
+                                    [Height] => 75
+                                    [Width] => 47
+                                )
+
+                            [MediumImage] => SimpleXMLElement Object
+                                (
+                                    [URL] => http://ecx.images-amazon.com/images/I/51MSeyNLpIL._SL160_.jpg
+                                    [Height] => 160
+                                    [Width] => 101
+                                )
+
+                            [LargeImage] => SimpleXMLElement Object
+                                (
+                                    [URL] => http://ecx.images-amazon.com/images/I/51MSeyNLpIL.jpg
+                                    [Height] => 500
+                                    [Width] => 316
+                                )
+
+                            [ImageSets] => SimpleXMLElement Object
+                                (
+                                    [ImageSet] => SimpleXMLElement Object
+                                        (
+                                            [@attributes] => Array
+                                                (
+                                                    [Category] => primary
+                                                )
+
+                                            [SwatchImage] => SimpleXMLElement Object
+                                                (
+                                                    [URL] => http://ecx.images-amazon.com/images/I/51MSeyNLpIL._SL30_.jpg
+                                                    [Height] => 30
+                                                    [Width] => 19
+                                                )
+
+                                            [SmallImage] => SimpleXMLElement Object
+                                                (
+                                                    [URL] => http://ecx.images-amazon.com/images/I/51MSeyNLpIL._SL75_.jpg
+                                                    [Height] => 75
+                                                    [Width] => 47
+                                                )
+
+                                            [ThumbnailImage] => SimpleXMLElement Object
+                                                (
+                                                    [URL] => http://ecx.images-amazon.com/images/I/51MSeyNLpIL._SL75_.jpg
+                                                    [Height] => 75
+                                                    [Width] => 47
+                                                )
+
+                                            [TinyImage] => SimpleXMLElement Object
+                                                (
+                                                    [URL] => http://ecx.images-amazon.com/images/I/51MSeyNLpIL._SL110_.jpg
+                                                    [Height] => 110
+                                                    [Width] => 70
+                                                )
+
+                                            [MediumImage] => SimpleXMLElement Object
+                                                (
+                                                    [URL] => http://ecx.images-amazon.com/images/I/51MSeyNLpIL._SL160_.jpg
+                                                    [Height] => 160
+                                                    [Width] => 101
+                                                )
+
+                                            [LargeImage] => SimpleXMLElement Object
+                                                (
+                                                    [URL] => http://ecx.images-amazon.com/images/I/51MSeyNLpIL.jpg
+                                                    [Height] => 500
+                                                    [Width] => 316
+                                                )
+
+                                        )
+
+                                )
+
+                            [ItemAttributes] => SimpleXMLElement Object
+                                (
+                                    [Author] => Vandana Shiva
+                                    [Binding] => Paperback
+                                    [DeweyDecimalNumber] => 333.8232
+                                    [EAN] => 9780896087828
+                                    [ISBN] => 0896087824
+                                    [Label] => South End Press
+                                    [Languages] => SimpleXMLElement Object
+                                        (
+                                            [Language] => Array
+                                                (
+                                                    [0] => SimpleXMLElement Object
+                                                        (
+                                                            [Name] => English
+                                                            [Type] => Unknown
+                                                        )
+
+                                                    [1] => SimpleXMLElement Object
+                                                        (
+                                                            [Name] => English
+                                                            [Type] => Original Language
+                                                        )
+
+                                                    [2] => SimpleXMLElement Object
+                                                        (
+                                                            [Name] => English
+                                                            [Type] => Published
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [ListPrice] => SimpleXMLElement Object
+                                        (
+                                            [Amount] => 1500
+                                            [CurrencyCode] => USD
+                                            [FormattedPrice] => $15.00
+                                        )
+
+                                    [Manufacturer] => South End Press
+                                    [NumberOfItems] => 1
+                                    [NumberOfPages] => 200
+                                    [PackageDimensions] => SimpleXMLElement Object
+                                        (
+                                            [Height] => 50
+                                            [Length] => 840
+                                            [Weight] => 40
+                                            [Width] => 530
+                                        )
+
+                                    [ProductGroup] => Book
+                                    [ProductTypeName] => ABIS_BOOK
+                                    [PublicationDate] => 2008-10-01
+                                    [Publisher] => South End Press
+                                    [Studio] => South End Press
+                                    [Title] => Soil Not Oil: Environmental Justice in an Age of Climate Crisis
+                                )
+
+                            [OfferSummary] => SimpleXMLElement Object
+                                (
+                                    [LowestNewPrice] => SimpleXMLElement Object
+                                        (
+                                            [Amount] => 902
+                                            [CurrencyCode] => USD
+                                            [FormattedPrice] => $9.02
+                                        )
+
+                                    [LowestUsedPrice] => SimpleXMLElement Object
+                                        (
+                                            [Amount] => 912
+                                            [CurrencyCode] => USD
+                                            [FormattedPrice] => $9.12
+                                        )
+
+                                    [TotalNew] => 16
+                                    [TotalUsed] => 26
+                                    [TotalCollectible] => 0
+                                    [TotalRefurbished] => 0
+                                )
+
+                            [EditorialReviews] => SimpleXMLElement Object
+                                (
+                                    [EditorialReview] => SimpleXMLElement Object
+                                        (
+                                            [Source] => Product Description
+                                            [Content] => <DIV><p>With <i>Soil Not Oil</i>, Vandana Shiva connects the dots between industrial agriculture and climate change. Shiva shows that a world beyond dependence on fossil fuels and globalization is both possible and necessary.</p><p>Condemning industrial agriculture as a recipe for ecological and economic disaster, Shiva’s champion is the small, independent farm: their greater productivity, their greater potential for social justice as they put more resources into the hands of the poor, and the biodiversity that is inherent to the traditional farming practiced in small-scale agriculture. What we need most in a time of changing climates and millions hungry, she argues, is sustainable, biologically diverse farms that are more resistant to disease, drought, and flood. In her trademark style, she draws solutions to our world’s most pressing problems on the head of a pin: “The solution to climate change,” she observes, “and the solution to poverty are the same.”</p><p>Using Shiva’s organization Navdanya—praised by Barbara Kingsolver as “a small, green Eden framed against the startling blue backdrop of the Himalayas”—as a model, <i>Soil Not Oil</i> lays out principles for feeding the planet that are socially just and environmentally sound. Shiva then expands her analysis to broader issues of globalization and climate change, arguing that a healthy environment and a just world go hand in hand. Unwavering and truly visionary, <i>Soil Not Oil</i> proposes a solution based on self-organization, sustainability, and community rather than corporate power and profits.</p><p>A world-renowned environmental leader and thinker, <b>Vandana Shiva</b> is the author of many books, including <i>Earth Democracy</i>, <i>Water Wars</i>, and <i>Staying Alive</i>. She is the editor of <i>Manifestos on the Future of Food and Seed</i>.</p></DIV>
+                                            [IsLinkSuppressed] => 0
+                                        )
+
+                                )
+
+                        )
+
+                    [9] => SimpleXMLElement Object
+                        (
+                            [ASIN] => 1934568457
+                            [DetailPageURL] => http://www.amazon.com/Oil-Upton-Sinclair/dp/1934568457%3FSubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1934568457
+                            [ItemLinks] => SimpleXMLElement Object
+                                (
+                                    [ItemLink] => Array
+                                        (
+                                            [0] => SimpleXMLElement Object
+                                                (
+                                                    [Description] => Technical Details
+                                                    [URL] => http://www.amazon.com/Oil-Upton-Sinclair/dp/tech-data/1934568457%3FSubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D1934568457
+                                                )
+
+                                            [1] => SimpleXMLElement Object
+                                                (
+                                                    [Description] => Add To Baby Registry
+                                                    [URL] => http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3D1934568457%26SubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D1934568457
+                                                )
+
+                                            [2] => SimpleXMLElement Object
+                                                (
+                                                    [Description] => Add To Wedding Registry
+                                                    [URL] => http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3D1934568457%26SubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D1934568457
+                                                )
+
+                                            [3] => SimpleXMLElement Object
+                                                (
+                                                    [Description] => Add To Wishlist
+                                                    [URL] => http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3D1934568457%26SubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D1934568457
+                                                )
+
+                                            [4] => SimpleXMLElement Object
+                                                (
+                                                    [Description] => Tell A Friend
+                                                    [URL] => http://www.amazon.com/gp/pdp/taf/1934568457%3FSubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D1934568457
+                                                )
+
+                                            [5] => SimpleXMLElement Object
+                                                (
+                                                    [Description] => All Customer Reviews
+                                                    [URL] => http://www.amazon.com/review/product/1934568457%3FSubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D1934568457
+                                                )
+
+                                            [6] => SimpleXMLElement Object
+                                                (
+                                                    [Description] => All Offers
+                                                    [URL] => http://www.amazon.com/gp/offer-listing/1934568457%3FSubscriptionId%3DAKIAJ7EJHDPEX4IEY44Q%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D1934568457
+                                                )
+
+                                        )
+
+                                )
+
+                            [SalesRank] => 365780
+                            [SmallImage] => SimpleXMLElement Object
+                                (
+                                    [URL] => http://ecx.images-amazon.com/images/I/31XhvplhLGL._SL75_.jpg
+                                    [Height] => 75
+                                    [Width] => 75
+                                )
+
+                            [MediumImage] => SimpleXMLElement Object
+                                (
+                                    [URL] => http://ecx.images-amazon.com/images/I/31XhvplhLGL._SL160_.jpg
+                                    [Height] => 160
+                                    [Width] => 160
+                                )
+
+                            [LargeImage] => SimpleXMLElement Object
+                                (
+                                    [URL] => http://ecx.images-amazon.com/images/I/31XhvplhLGL.jpg
+                                    [Height] => 300
+                                    [Width] => 300
+                                )
+
+                            [ImageSets] => SimpleXMLElement Object
+                                (
+                                    [MerchantId] => A3GE4BMW5RMD9Q
+                                    [ImageSet] => SimpleXMLElement Object
+                                        (
+                                            [@attributes] => Array
+                                                (
+                                                    [Category] => primary
+                                                )
+
+                                            [SwatchImage] => SimpleXMLElement Object
+                                                (
+                                                    [URL] => http://ecx.images-amazon.com/images/I/31XhvplhLGL._SL30_.jpg
+                                                    [Height] => 30
+                                                    [Width] => 30
+                                                )
+
+                                            [SmallImage] => SimpleXMLElement Object
+                                                (
+                                                    [URL] => http://ecx.images-amazon.com/images/I/31XhvplhLGL._SL75_.jpg
+                                                    [Height] => 75
+                                                    [Width] => 75
+                                                )
+
+                                            [ThumbnailImage] => SimpleXMLElement Object
+                                                (
+                                                    [URL] => http://ecx.images-amazon.com/images/I/31XhvplhLGL._SL75_.jpg
+                                                    [Height] => 75
+                                                    [Width] => 75
+                                                )
+
+                                            [TinyImage] => SimpleXMLElement Object
+                                                (
+                                                    [URL] => http://ecx.images-amazon.com/images/I/31XhvplhLGL._SL110_.jpg
+                                                    [Height] => 110
+                                                    [Width] => 110
+                                                )
+
+                                            [MediumImage] => SimpleXMLElement Object
+                                                (
+                                                    [URL] => http://ecx.images-amazon.com/images/I/31XhvplhLGL._SL160_.jpg
+                                                    [Height] => 160
+                                                    [Width] => 160
+                                                )
+
+                                            [LargeImage] => SimpleXMLElement Object
+                                                (
+                                                    [URL] => http://ecx.images-amazon.com/images/I/31XhvplhLGL.jpg
+                                                    [Height] => 300
+                                                    [Width] => 300
+                                                )
+
+                                        )
+
+                                )
+
+                            [ItemAttributes] => SimpleXMLElement Object
+                                (
+                                    [Author] => Upton Sinclair
+                                    [Binding] => Hardcover
+                                    [DeweyDecimalNumber] => 320
+                                    [EAN] => 9781934568453
+                                    [ISBN] => 1934568457
+                                    [Label] => Frederick Ellis
+                                    [Languages] => SimpleXMLElement Object
+                                        (
+                                            [Language] => Array
+                                                (
+                                                    [0] => SimpleXMLElement Object
+                                                        (
+                                                            [Name] => English
+                                                            [Type] => Unknown
+                                                        )
+
+                                                    [1] => SimpleXMLElement Object
+                                                        (
+                                                            [Name] => English
+                                                            [Type] => Original Language
+                                                        )
+
+                                                    [2] => SimpleXMLElement Object
+                                                        (
+                                                            [Name] => English
+                                                            [Type] => Published
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [ListPrice] => SimpleXMLElement Object
+                                        (
+                                            [Amount] => 4475
+                                            [CurrencyCode] => USD
+                                            [FormattedPrice] => $44.75
+                                        )
+
+                                    [Manufacturer] => Frederick Ellis
+                                    [NumberOfItems] => 1
+                                    [NumberOfPages] => 544
+                                    [PackageDimensions] => SimpleXMLElement Object
+                                        (
+                                            [Height] => 160
+                                            [Length] => 860
+                                            [Weight] => 175
+                                            [Width] => 540
+                                        )
+
+                                    [ProductGroup] => Book
+                                    [ProductTypeName] => ABIS_BOOK
+                                    [PublicationDate] => 2008-02-01
+                                    [Publisher] => Frederick Ellis
+                                    [Studio] => Frederick Ellis
+                                    [Title] => Oil!
+                                )
+
+                            [OfferSummary] => SimpleXMLElement Object
+                                (
+                                    [LowestNewPrice] => SimpleXMLElement Object
+                                        (
+                                            [Amount] => 4022
+                                            [CurrencyCode] => USD
+                                            [FormattedPrice] => $40.22
+                                        )
+
+                                    [LowestUsedPrice] => SimpleXMLElement Object
+                                        (
+                                            [Amount] => 4000
+                                            [CurrencyCode] => USD
+                                            [FormattedPrice] => $40.00
+                                        )
+
+                                    [LowestCollectiblePrice] => SimpleXMLElement Object
+                                        (
+                                            [Amount] => 10000
+                                            [CurrencyCode] => USD
+                                            [FormattedPrice] => $100.00
+                                        )
+
+                                    [TotalNew] => 13
+                                    [TotalUsed] => 8
+                                    [TotalCollectible] => 3
+                                    [TotalRefurbished] => 0
+                                )
+
+                            [EditorialReviews] => SimpleXMLElement Object
+                                (
+                                    [EditorialReview] => SimpleXMLElement Object
+                                        (
+                                            [Source] => Product Description
+                                            [Content] => This novel originates from the 'Teapot Dome' oil scandal of President Warren Harding as oil barons bribe politicians.  It is about greed and the oil boom of Southern California in the 1920's. It is wrapped up in evangelic crusades by shifty preachers and leftist labor activists.  "Oil" is a provoking novel as a man and his son plunge into the oil drilling business and all that they do and what is around them.  Bunny the son becomes a 'red millionaire' and is a radical strike leader. The 2007 highly acclaimed movie "There Will Be Blood" directed by Paul Thomas Anderson and staring Daniel Day-Lewis is an adaptation of Sinclair's Oil!  Read this novel and then see the movie. A Collector's EDition.
+                                            [IsLinkSuppressed] => 0
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
